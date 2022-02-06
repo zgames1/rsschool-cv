@@ -65,3 +65,10 @@ $i = 0;
 </g>
 <?php } ?>
 ```
+###### my few works I have done 
+[landscaping company](https://mk-landscapes.com/)
+[wheel repair](https://www.ratlankiutvarkymas.lt/)
+[builders/brokers](https://naujiejiginduliai.lt/)
+
+###### Education - multimedia and communications in Aarhus business academy
+###### I have passed IELC exam in 2009 with 6.5 score, studied in Denmark for 4 years and live ind UK for 4 years
